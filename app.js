@@ -64,7 +64,7 @@ class Calculator {
     const decimalDigits = stringNumber.split('.')[1];
 
     let integerDisplay;
-    if (isNaN(integerDisplay)) {
+    if (isNaN(integerDigits)) {
       integerDisplay = '';
     } else {
       integerDisplay = integerDigits.toLocaleString('en', {

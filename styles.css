@@ -6,7 +6,7 @@
 body {
   font-family: 'Trebuchet MS', sans-serif;
   font-weight: normal;
-  background: linear-gradient(to right, #00aaff, #28b90b);
+  background: linear-gradient(to right, #4dacdb, #6af065);
 }
 .calculator-grid {
   display: grid;
