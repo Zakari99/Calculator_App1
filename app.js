@@ -53,6 +53,8 @@ class Calculator {
       default:
         return;
     }
+
+    // below is the display state of our answer/solution
     this.readyToReset = true;
     this.currentOperand = computation;
     this.operation = undefined;
